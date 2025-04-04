@@ -19,9 +19,11 @@
 </p>
 
 <p align="left">
-
-
-  <a href="thiago.mime4321@gmail.com" title="Gmail">
+  
+<a href="https://www.youtube.com/@telesvfx8780/videos" title="YouTube">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiago.mime4321@gmail.com" alt="Gmail"/></a>
   <a href="//www.linkedin.com/in/thiago-teles-85890720b/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-teles-85890720b/" alt="LinkedIn"/></a>
