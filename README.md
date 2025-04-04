@@ -31,25 +31,6 @@ const thiago = {
 }
 ```
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/thiago-teles-85890720b/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-		<a style="margin-left: 1px;" target="_blank" href="https://www.youtube.com/@telesvfx8780">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-         <a href="https://wa.me/5511972619400" target="_blank" style="margin-left: 15px;">
-    <img src="https://img.icons8.com/doodle/40/000000/whatsapp.png" alt="WhatsApp">
-  </a>
-		
-
-</p>
 
 ### ⚙️ GitHub Analytics
 
@@ -122,6 +103,25 @@ const thiago = {
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/thiago-teles-85890720b/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+		<a style="margin-left: 1px;" target="_blank" href="https://www.youtube.com/@telesvfx8780">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+         <a href="https://wa.me/5511972619400" target="_blank" style="margin-left: 15px;">
+    <img src="https://img.icons8.com/doodle/40/000000/whatsapp.png" alt="WhatsApp">
+  </a>
+		
+
+</p>
 
 ### Spotify Playing 🎧
 
