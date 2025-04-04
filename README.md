@@ -29,10 +29,6 @@ const thiago = {
 }
 ```
 
-<a target="_blank" align="center">
-  <img align=  height="10" width="20" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
-</a>
-
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
