@@ -3,12 +3,14 @@
  ``` 👨🏼‍💻 Thiago Teles ```  
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+  <img align="right" top="400" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </a>
 
 
 
 ```ts
+// Perfil de Thiago Teles
+
 const thiago = {
   nome: "Thiago Teles",
   idade: 23,
@@ -17,9 +19,19 @@ const thiago = {
     "Análise e Desenvolvimento de Sistemas - ETEC"
   ],
   interesses: [
-    "Tecnologia", "Dados", "Projetos",
+    "Tecnologia",
+    "Dados",
+    "Projetos",
+    "Experimentação",
+    "Aprendizado contínuo"
   ],
-  sobre: "Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento.",
+  sobre: `
+    Gosto bastante de tecnologia e estou sempre fuçando, testando 
+    e aprendendo coisas novas — especialmente quando o assunto 
+    envolve dados. Aqui você vai encontrar alguns projetos, 
+    anotações, experimentos e o que mais eu estiver explorando 
+    no momento.
+  `,
   mensagem: "Fique à vontade para dar uma olhada!"
 }
 ```
