@@ -4,7 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente sou estudante de Ciência de Dados na FATEC Sebrae e de Análise e Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia, sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho interesse especial na área de dados, mas estou aberto a oportunidades em outras áreas da tecnologia também.
+  Atualmente sou estudante de Ciência de Dados na FATEC Sebrae e de Análise e Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia, sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho interesse especial na área de dados, mas estou aberto a oportunidades em outras áreas da tecnologia também. [Telesvfx](https://www.youtube.com/watch?v=9ygf4hkLVnA)
+
 
 <p align="left">
   🦄 Linguagens: Java, Python, MySQL, CSS
