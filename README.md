@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiago.mime4321@gmail.com" alt="Gmail"/></a>
   <a href="//www.linkedin.com/in/thiago-teles-85890720b/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-teles-85890720b/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511972619400?text=Ol%C3%A1,%20Thiago!%20Tenho%20uma%20vaga/oportunidade%20e%20gostaria%20de%20saber%20se%20voc%C3%AA%20tem%20interesse.%20Podemos%20conversar?" title="WhatsApp">
+  <a href="[https://wa.me/5511972619400?text=Ol%C3%A1,%20Thiago!%20Tenho%20uma%20vaga/oportunidade%20e%20gostaria%20de%20saber%20se%20voc%C3%AA%20tem%20interesse.%20Podemos%20conversar?](https://wa.me/5511972619400?text=Ol%C3%A1%2C%20Thiago!%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.%20%3A))" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511972619400?text=Ol%C3%A1,%20Thiago!%20Tenho%20uma%20vaga/oportunidade%20e%20gostaria%20de%20saber%20se%20voc%C3%AA%20tem%20interesse.%20Podemos%20conversar?" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/teles.eu_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/teles.eu_/" alt="Instagram"/></a>
