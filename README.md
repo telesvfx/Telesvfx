@@ -101,8 +101,6 @@ const thiago = {
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -122,6 +120,9 @@ const thiago = {
 		
 
 </p>
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+
 
 ### Spotify Playing 🎧
 
