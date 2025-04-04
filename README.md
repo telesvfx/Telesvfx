@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente sou estudante de Ciência de Dados na FATEC Sebrae e de Análise e Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia, sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho interesse especial na área de dados, mas estou aberto a oportunidades em outras áreas da tecnologia também. "[Telesvfx](https://www.youtube.com/watch?v=9ygf4hkLVnA)"
-
+  Atualmente sou estudante de Ciência de Dados na FATEC Sebrae e de Análise e Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia e sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho interesse especial na área de dados, mas estou aberto a oportunidades em outras áreas da tecnologia também.
 
 <p align="left">
   🦄 Linguagens: Java, Python, MySQL, CSS
@@ -20,16 +19,15 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+
+
+  <a href="thiago.mime4321@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiago.mime4321@gmail.com" alt="Gmail"/></a>
-  
-  <a href="#" title="LinkedIn">
+  <a href="//www.linkedin.com/in/thiago-teles-85890720b/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-teles-85890720b/" alt="LinkedIn"/></a>
-  
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5511972619400?text=Ol%C3%A1,%20Thiago!%20Tenho%20uma%20vaga/oportunidade%20e%20gostaria%20de%20saber%20se%20voc%C3%AA%20tem%20interesse.%20Podemos%20conversar?" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511972619400?text=Ol%C3%A1,%20Thiago!%20Tenho%20uma%20vaga/oportunidade%20e%20gostaria%20de%20saber%20se%20voc%C3%AA%20tem%20interesse.%20Podemos%20conversar?" alt="WhatsApp"/></a>
- 
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/teles.eu_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/teles.eu_/" alt="Instagram"/></a>
 </p>
 
@@ -114,6 +112,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
 
 
 
