@@ -3,13 +3,12 @@
  ``` 👨🏼‍💻 Thiago Teles ```  
 
 <a target="_blank" align="center">
-  <img align="right" top="400" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+  <img align="right" top="400" height="500" width="500" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </a>
 
 
 
 ```ts
-// Perfil de Thiago Teles
 
 const thiago = {
   nome: "Thiago Teles",
