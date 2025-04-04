@@ -82,31 +82,38 @@ const thiago = {
   />
 </p>
 
-<p align="center">
-  ### Languages and Tools 🛠 
+<div align="center">
+  
+  ---
+  ### 🛠 Languages and Tools 🛠
 
-  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-  ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-  ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+  <br>
+  
+  <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java">
+  <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" alt="C">
+  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="React">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="Sass">
+  <br>
+  <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS Code">
+  <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" alt="Eclipse">
+  <img src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="Powershell">
+  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows">
 
-  ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-</p>
+  <br><br>
+  
+---
 
 
-<br/>
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -126,13 +133,11 @@ const thiago = {
 
 </p>
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-
+<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
+---
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6NzxT5CXhnKHAvXLDAC6Ba?si=QjfKMtgVToSSj3IyHSRhjQ&pi=UrWTDkMGQYmQw)
 
----
-<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
