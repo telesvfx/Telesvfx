@@ -1,13 +1,18 @@
+
+
 <a target="_blank" align="center">
   <img align=  height="50" width="100" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </a>
 
 
- ``` 👨🏼‍💻 Thiago Teles ```  
+
+ ``` 👨🏼‍💻 Thiago Teles ```   
+
+
+
 
 
 ```ts
-
 const thiago = {
   nome: "Thiago Teles",
   idade: 23,
@@ -22,15 +27,10 @@ const thiago = {
     "Experimentação",
     "Aprendizado contínuo"
   ],
-  sobre: `
-    Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto  envolve dados. Aqui você vai encontrar alguns projetos, anotações,
-    experimentos e o que mais eu estiver explorando no momento.
-  `,
+  sobre: "Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento.",
   mensagem: "Fique à vontade para dar uma olhada!"
 }
 ```
-
-
 
 
 
@@ -97,7 +97,14 @@ const thiago = {
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-	  ### Languages and Tools 🛠 
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/telesvfx/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -116,13 +123,6 @@ const thiago = {
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/telesvfx/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 
@@ -132,5 +132,4 @@ const thiago = {
 
 ---
 <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
-
 
