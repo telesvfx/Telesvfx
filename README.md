@@ -25,11 +25,8 @@ const thiago = {
     "Aprendizado contínuo"
   ],
   sobre: `
-    Gosto bastante de tecnologia e estou sempre fuçando, testando 
-    e aprendendo coisas novas — especialmente quando o assunto 
-    envolve dados. Aqui você vai encontrar alguns projetos, 
-    anotações, experimentos e o que mais eu estiver explorando 
-    no momento.
+    Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto  envolve dados. Aqui você vai encontrar alguns projetos, anotações,
+    experimentos e o que mais eu estiver explorando no momento.
   `,
   mensagem: "Fique à vontade para dar uma olhada!"
 }
