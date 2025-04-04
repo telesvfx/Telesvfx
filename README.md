@@ -8,7 +8,7 @@
 
 
 
-````bash Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!````
+```` Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!````
 
 
 
