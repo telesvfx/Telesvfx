@@ -2,19 +2,15 @@
 
  ``` 👨🏼‍💻 Thiago Teles ``` <img width="15px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-```javascript
- Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise
- e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando
- e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar
- alguns projetos, anotações, experimentose o que mais eu estiver explorando no momento. Fique à vontade
- para dar uma olhada!
+
+Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!
 
 
   Contatos: ⤵️
-  ```
+
 </p>
 
 <p align="left">
