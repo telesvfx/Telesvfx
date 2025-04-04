@@ -1,4 +1,6 @@
-
+<a target="_blank" align="center">
+  <img align=  height="50" width="100" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+</a>
 
  ``` 👨🏼‍💻 Thiago Teles ```  
 
