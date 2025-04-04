@@ -1,21 +1,16 @@
-## 👨🏼‍💻 Thiago Teles
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+ ``` 👨🏼‍💻 Thiago Teles ``` <img width="15px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<p align="left"> 
- Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<p align="left">
-  🦄 Linguagens: Java, Python, MySQL, CSS
-</p>
 
-<p align="left">
-  💼 Ferramentas: VS Code, MySQL Workbench, Jupyter Notebook, Git/GitHub, Excel
-</p>
+```javascript
+Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!
 
-<p align="left">
-  💌 Contatos: ⤵️
+
+  Contatos: ⤵️
+  ```
 </p>
 
 <p align="left">
@@ -54,7 +49,6 @@
   </tr>
 </table>
 
-
 --- 
 
 ### 🏆 GitHub Profile Trophy
@@ -84,6 +78,7 @@
   />
 </p>
 
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 **Aplicações e dados**
 
 
@@ -109,7 +104,8 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-
-
+---
