@@ -3,7 +3,7 @@
  ``` 👨🏼‍💻 Thiago Teles ```  
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="350" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif)">
 </a>
 
 
