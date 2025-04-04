@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente sou estudante de Ciência de Dados na FATEC Sebrae e de Análise e Desenvolvimento de Sistemas na ETEC. Sou apaixonado por tecnologia e sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho interesse especial na área de dados, mas estou aberto a oportunidades em outras áreas da tecnologia também.
+ Oi! Meu nome é Thiago e tenho 23 anos, atualmente estou cursando Ciência de Dados na FATEC e Análise e Desenvolvimento de Sistemas na ETEC. Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento. Fique à vontade para dar uma olhada!
 
 <p align="left">
   🦄 Linguagens: Java, Python, MySQL, CSS
@@ -19,11 +19,11 @@
 </p>
 
 <p align="left">
-  
+
 <a href="https://www.youtube.com/@telesvfx8780/videos" title="YouTube">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-  <a href="#" title="Gmail">
+  <a href="thiago.mime4321@gmail.com.br" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiago.mime4321@gmail.com" alt="Gmail"/></a>
   <a href="//www.linkedin.com/in/thiago-teles-85890720b/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-teles-85890720b/" alt="LinkedIn"/></a>
@@ -114,6 +114,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+
 
 
 
