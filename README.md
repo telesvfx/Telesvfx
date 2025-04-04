@@ -84,6 +84,19 @@ const thiago = {
     href="https://github.com/telesvfx"
     title="repositório de troféus"
   >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=telesvfx&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
 	  ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -102,18 +115,6 @@ const thiago = {
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=telesvfx&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
 <p align="center">
   <img
