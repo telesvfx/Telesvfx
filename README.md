@@ -1,11 +1,15 @@
 
- ``` 👨🏼‍💻 Thiago Teles ```   
- <a target="_blank" align="center">
- 
- <a target="_blank" align="center">
-  <img align=  height="40" width="90" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+
+
+   <div align="center">
+
+```👨🏼‍💻 Thiago Teles```
+
+<a target="_blank">
+  <img height="50" width="50" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </a>
 
+</div>
 
 
 ```ts
@@ -27,14 +31,14 @@ const thiago = {
   mensagem: "Fique à vontade para dar uma olhada!"
 }
 ```
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
 
 
-### ⚙️ GitHub Analytics
+<div align="center"> 
+
+### ⚙️ Estatísticas
 
 <table>
   <tr>
@@ -42,7 +46,7 @@ const thiago = {
       <img
         src="https://github-readme-stats.vercel.app/api?username=telesvfx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
         width="100%"
-        alt="GitHub Stats"
+        alt="Stats"
       />
     </td>
     <td width="50%">
@@ -57,7 +61,7 @@ const thiago = {
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Conquistas 
 
 <p align="center">
   <a
@@ -74,7 +78,7 @@ const thiago = {
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Visitantes do Perfil Count</b></h3>
 </div>
 
 <p align="center">
@@ -87,7 +91,7 @@ const thiago = {
 <div align="center">
   
   ---
-  ### 🛠 Languages and Tools 🛠
+  ### 🛠 Linguagens e Ferramentas 🛠
 
   <br>
   
@@ -116,7 +120,7 @@ const thiago = {
 
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" style="margin-right: 10px;">Entre em contato comigo 🤝 </h3>
 
 <p align="center">
 
