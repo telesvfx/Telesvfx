@@ -27,6 +27,11 @@ const thiago = {
   mensagem: "Fique à vontade para dar uma olhada!"
 }
 ```
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
 
 
 ### ⚙️ GitHub Analytics
