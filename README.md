@@ -78,7 +78,7 @@ const thiago = {
 ---
 
 <div align="center">
-  <h3><b>📍 Visitantes do Perfil Count</b></h3>
+  <h3><b>📍 Visitantes do Perfil </b></h3>
 </div>
 
 <p align="center">
