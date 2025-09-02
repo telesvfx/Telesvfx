@@ -83,7 +83,7 @@ const thiago = {
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/telesvfx/count.svg?cache_bust=1"
+    src="https://profile-counter.glitch.me/telesvfx/count.svg?cache_bust=12345"
     alt="Número de visitantes no perfil"
   />
 </p>
