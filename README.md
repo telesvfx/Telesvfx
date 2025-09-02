@@ -75,13 +75,10 @@ const thiago = {
   </a>
 </p>
 
----
-
-  
   ---
   ### 🛠 Linguagens e Ferramentas 🛠
 
-  <br>
+
   
   <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
@@ -94,9 +91,6 @@ const thiago = {
   <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" alt="Eclipse">
   <img src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="Powershell">
   <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows">
-
-  <br><br>
-  
 ---
 
 
