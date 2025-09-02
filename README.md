@@ -77,18 +77,6 @@ const thiago = {
 
 ---
 
-<div align="center">
-  <h3><b>📍 Visitantes do Perfil </b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/telesvfx/count.svg?cache_bust=12345"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
-<div align="center">
   
   ---
   ### 🛠 Linguagens e Ferramentas 🛠
