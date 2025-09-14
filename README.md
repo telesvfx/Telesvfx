@@ -1,6 +1,4 @@
 
-
-
    <div align="center">
 
 ```👨🏼‍💻 Thiago Teles```
@@ -18,28 +16,44 @@ const thiago = {
   idade: 23,
   cursos: [
     "Ciência de Dados - FATEC",
-    "Análise e Desenvolvimento de Sistemas - ETEC"
-  ],
-  interesses: [
-    "Tecnologia",
-    "Dados",
-    "Projetos",
-    "Experimentação",
-    "Aprendizado contínuo"
-  ],
-  sobre: "Gosto bastante de tecnologia e estou sempre fuçando, testando e aprendendo coisas novas — especialmente quando o assunto envolve dados. Aqui você vai encontrar alguns projetos, anotações, experimentos e o que mais eu estiver explorando no momento.",
-  mensagem: "Fique à vontade para dar uma olhada!"
-}
-```
-<br clear="both">
+    "Desenvolvimento de Sistemas - ETEC",
+    "Futuramente, Estatística"
+  ]
+};
 
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+```
+---
+<div align="center">
+
+</div>
 
 
 <div align="center"> 
 
-### ⚙️ Estatísticas
 
+
+
+
+
+  ###	Linguagens e Ferramentas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
+
+
+  
+  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
+  <br>
+  <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS Code">
+  <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" alt="Eclipse">
+  <img src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="Powershell">
+  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows">
+  
+---
+### Estatísticas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png" alt="Ogre" width="25" height="25" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=telesvfx&title=Stars,Followers,MultiLanguage,Commits,Repositories,Experience,Reviews,Issues,ma&theme=aura)](https://github.com/telesvfx/github-profile-trophy)
 <table>
   <tr>
     <td width="50%">
@@ -58,42 +72,6 @@ const thiago = {
     </td>
   </tr>
 </table>
-
---- 
-
-### 🏆 Conquistas 
-
-<p align="center">
-  <a
-    href="https://github.com/telesvfx"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=telesvfx&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-  ---
-  ### 🛠 Linguagens e Ferramentas 🛠
-
-
-  
-  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
-  <br>
-  <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server">
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS Code">
-  <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" alt="Eclipse">
-  <img src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="Powershell">
-  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows">
-  
----
-
 
 
 
@@ -121,5 +99,3 @@ const thiago = {
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6NzxT5CXhnKHAvXLDAC6Ba?si=QjfKMtgVToSSj3IyHSRhjQ&pi=UrWTDkMGQYmQw)
-
-
