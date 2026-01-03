@@ -17,7 +17,6 @@ const thiago = {
   cursos: [
     "Ciência de Dados - FATEC",
     "Desenvolvimento de Sistemas - ETEC",
-    "Futuramente, Estatística"
   ]
 };
 
