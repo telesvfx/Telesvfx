@@ -26,8 +26,21 @@ const thiago = {
 </div>
 
 
-<div align="center"> 
 
+
+<div align="center"> 
+ <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3">
+  <br>
+  <img src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" alt="VS Code">
+  <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" alt="Eclipse">
+  <img src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff" alt="Powershell">
+  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows">
+  
 
 
 
@@ -52,3 +65,7 @@ const thiago = {
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6NzxT5CXhnKHAvXLDAC6Ba?si=QjfKMtgVToSSj3IyHSRhjQ&pi=UrWTDkMGQYmQw)
+
+
+  
+
