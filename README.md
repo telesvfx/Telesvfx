@@ -53,7 +53,7 @@ const thiago = {
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-		<a style="margin-left: 1px;" target="_blank" href="https://www.youtube.com/@telesvfx8780">
+		<a style="margin-left: 1px;" target="_blank" href="https://www.youtube.com/@telesdados">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
          <a href="https://wa.me/5511972619400" target="_blank" style="margin-left: 15px;">
     <img src="https://img.icons8.com/doodle/40/000000/whatsapp.png" alt="WhatsApp">
