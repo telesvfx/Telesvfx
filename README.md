@@ -71,10 +71,5 @@ const thiago = {
 
 </p>
 
-
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6NzxT5CXhnKHAvXLDAC6Ba?si=QjfKMtgVToSSj3IyHSRhjQ&pi=UrWTDkMGQYmQw)
-
-
   
 
